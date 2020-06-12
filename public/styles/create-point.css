@@ -5,7 +5,7 @@
     margin: 0 auto;
 }
 
-#page-create-point::after {
+/* #page-create-point::after {
     content: '';
 
     position: absolute;
@@ -19,7 +19,7 @@
     background-color: #f5f5f5;
 
     z-index: -1;
-}
+} */
 
 #page-create-point header {
     display: flex;
