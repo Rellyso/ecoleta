@@ -2,7 +2,7 @@
 
 {% block title %}
     <title>Criar um ponto de coleta</title>
-{% endblock title %}
+{% endblock title %}''
 
 {% block styles %}
     <link rel="stylesheet" href="styles/create-point.css">
@@ -23,6 +23,7 @@
             <legend>
 
                 <h2>Dados da entidade</h2>
+                <span>Preencha os dados corretamente</span>
 
             </legend>
 
@@ -31,7 +32,7 @@
                 <div class="field">
 
                     <label for="name">Nome</label>
-                    <input type="text" name="name" id="name" required="required">
+                    <input type="text" name="name" id="name" required="required" minlength="4">
 
                 </div>
                 <div class="field">
