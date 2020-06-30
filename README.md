@@ -1,6 +1,7 @@
 <h1 align="center">
 <br>
     <img alt="Ecoleta" src="./public/assets/logo.svg" width="400px" align="center"/>
+<br>
 </h1>
 
 <br>
@@ -10,13 +11,13 @@
     <img alt="Launchbase" src="https://ik.imagekit.io/rellyson/ecoleta-media-query_S7k-iqu57.gif" height="160px" align="center"/>
 </p>
 
-## <b>ECOLETA</b>
+# <b>ECOLETA</b>
 
 <p>
     Projeto desenvolvido durante a Next Level Week promovida pela <a href="https://www.rocketseat.com.br">Rocketseat</a>. A <b>Ecoleta</b> tem o objetivo de ser um marketplace, onde os cadastrados, disponibilizam locais para coleta de resíduos.
 </p>
 
-## COMANDOS GIT
+## :computer: ALGUNS COMANDOS GIT
 
 `git init` // inicia a linha do tempo <br>
 `git add` // adiciona ou atualiza mudanças para irem para a linha do tempo <br>
@@ -28,9 +29,4 @@
 `git checkout` // manipula as linhas do tempo<br>
 `git merge` // unir linhas do tempo <br>
 `git push` // envia as alterações locais para o repositório remoto <br>
-
-
-
 `-m` //  mensagem <br>
-=======
-`-m` //  mensagem
