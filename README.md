@@ -11,7 +11,7 @@
     <img alt="Launchbase" src="https://ik.imagekit.io/rellyson/ecoleta-media-query_S7k-iqu57.gif" height="160px" align="center"/>
 </p>
 
-# <b>ECOLETA</b>
+# :recycle: <b>ECOLETA</b>
 
 <p>
     Projeto desenvolvido durante a Next Level Week promovida pela <a href="https://www.rocketseat.com.br">Rocketseat</a>. A <b>Ecoleta</b> tem o objetivo de ser um marketplace, onde os cadastrados, disponibilizam locais para coleta de resíduos.
