@@ -7,8 +7,8 @@
 <br>
 
 <p align="center">
-    <img alt="Launchbase" src="https://ik.imagekit.io/rellyson/ecoleta_m2jZAoF5Au.gif" height="160px" align="center"/>
-    <img alt="Launchbase" src="https://ik.imagekit.io/rellyson/ecoleta-media-query_S7k-iqu57.gif" height="160px" align="center"/>
+    <img alt="Launchbase" src="https://ik.imagekit.io/rellyson/ecoleta_m2jZAoF5Au.gif" height="250px" align="center"/>
+    <img alt="Launchbase" src="https://ik.imagekit.io/rellyson/ecoleta-media-query_S7k-iqu57.gif" height="250px" align="center"/>
 </p>
 
 # :recycle: <b>ECOLETA</b>
