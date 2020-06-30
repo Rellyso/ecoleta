@@ -1,12 +1,13 @@
 <h1 align="center">
-    <img alt="Ecoleta" src="./public/assets/logo.svg" width="800px" align="center"/>
+<br>
+    <img alt="Ecoleta" src="./public/assets/logo.svg" width="400px" align="center"/>
 </h1>
 
 <br>
 
 <p align="center">
-    <img alt="Launchbase" src="https://ik.imagekit.io/rellyson/ecoleta_m2jZAoF5Au.gif" height="150px" align="center"/>
-    <img alt="Launchbase" src="https://ik.imagekit.io/rellyson/ecoleta-media-query_S7k-iqu57.gif" height="150px" align="center"/>
+    <img alt="Launchbase" src="https://ik.imagekit.io/rellyson/ecoleta_m2jZAoF5Au.gif" height="160px" align="center"/>
+    <img alt="Launchbase" src="https://ik.imagekit.io/rellyson/ecoleta-media-query_S7k-iqu57.gif" height="160px" align="center"/>
 </p>
 
 ## <b>ECOLETA</b>
